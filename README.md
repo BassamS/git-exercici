@@ -1,1 +1,1 @@
-# git-exercici
+# git exercici per a IT Academy.
